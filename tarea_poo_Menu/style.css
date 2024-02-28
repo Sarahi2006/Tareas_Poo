@@ -1,0 +1,20 @@
+.interfaz{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(132, 229, 229);
+}
+.pedido{
+    background-color: rgb(219, 217, 231);
+    width: 35%;
+    margin-left: 10px;
+}
+.cocina{
+    text-align: center;
+    background-color: rgb(231, 179, 244);
+    width: 30%;
+}
+.estado{
+    text-align: center;
+    background-color: rgb(212, 213, 243);
+    width: 25%;
+}
